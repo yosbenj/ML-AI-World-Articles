@@ -1,14 +1,14 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
 # Lab | Machine Learning & AI World
-Machine Learning now is one of the trending topics if you talk about technology. Everyday a lot of material about this topic arrives to the media, not only news about new discovers but also a lot of tutorials and articles about people working on this.
+Machine Learning is now one of the trending topics if you talk about technology. Everyday a lot of material about this topic arrives to the media, not only news about new discovers but also a lot of tutorials and articles about people working on this.
 
 The objectives of this lab are:
-* Get introduced into this world through the latest most important news we have had in the last years.
+* Get introduced into this world through the latest most important news we have had in the last few years.
 * Guide you to do a deeper research to understand them better.
 * Practice your presenting skills
 
-So you will be asked to read a piece of news and then share it with your partners. This way, when we finish sharing, you will have a light idea of the most important events but also you will be able to dig into one specific better.
+So you will be asked to read a piece of news and then share it with your colleagues. This way, when we finish sharing, you will have a light idea of the most important events but also you will be able to dig into one specific topic a little better.
 
 ## How we will do it?
 
@@ -36,7 +36,7 @@ Let's start! You will be assigned to an article and a day when you will have 5 m
 7. [Tay Microsoft racist AI](https://www.theverge.com/2016/3/24/11297050/tay-microsoft-chatbot-racist)
 8. [Spotify recommendation model](https://medium.com/@terry.foley555/spotify-algorithms-5f38b6b6db58)
 9. [Malaria spot](https://www.sciencedaily.com/releases/2016/04/160425095546.htm)
-10. [Retail AI](https://www.forbes.com/sites/bernardmarr/2018/08/10/how-fashion-retailer-hm-is-betting-on-artificial-intelligence-and-big-data-to-regain-profitability/#65bdfc7a5b00)
+10. [Retail AI](https://www.indigo9digital.com/blog/artificialintelligence)
 11. [LAPD crime algorithm](https://www.wired.com/story/los-angeles-police-department-predictive-policing/)
 12. [Traffic AI](https://motherboard.vice.com/en_us/article/jp3dn7/new-ai-algorithm-beats-even-the-worlds-worst-traffic)
 13. [Captchas](https://www.techradar.com/news/captcha-if-you-can-how-youve-been-training-ai-for-years-without-realising-it)
