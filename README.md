@@ -56,3 +56,4 @@ Let's start! You will be assigned to an article and a day when you will have 5 m
 27. [Generative AI and Silicon Valley](https://www.cnbc.com/2022/10/08/generative-ai-silicon-valleys-next-trillion-dollar-companies.html)
 28. [New AI learning techniques](https://news.mit.edu/2022/machine-learning-edge-microcontroller-1004)
 29. [Chat GPT](https://www.cnbc.com/2023/02/08/what-is-chatgpt-viral-ai-chatbot-at-heart-of-microsoft-google-fight.html)
+30. [Bard v ChatGPT](https://medium.com/the-generator/google-bard-first-impressions-will-it-kill-chatgpt-59c16ae76e3e)
