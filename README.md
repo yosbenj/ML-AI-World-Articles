@@ -10,8 +10,6 @@ The objectives of this lab are:
 
 So you will be asked to read a piece of news and then share it with your colleagues. This way, when we finish sharing, you will have a light idea of the most important events but also you will be able to dig into one specific topic a little better.
 
-## How we will do it?
-
 ## Lightning Talks 
 
 Lightning Talks are a popular format of presentation that aims to deliver a concise and focused message in a short span of time. They are designed to be engaging, informative, and most importantly, brief. As part of the bootcamp, you and your peers will have the chance to carry out a lightning talk on a topic if your choosing. This will allow you to carry out some additional research on an area that interests you and practice presentation skills.
